@@ -1,6 +1,9 @@
 # Citation-Network-Analysis-with-Apache-Spark
 This project demonstrates the use of Apache Spark for analyzing large-scale bibliographic data. The analysis focuses on identifying top-cited papers and authors, understanding collaboration patterns, analyzing publication trends, and more. The project is implemented in Python using PySpark.
 
+# Dataset Link
+DBLP-Citation-network V14 - https://originalfileserver.aminer.cn/misc/dblp_v14.tar.gz
+
 # Repository Structure
 simple_app.py: This script initializes the Spark session and loads the bibliographic dataset. It sets up the environment for subsequent data analysis tasks.
 process_data.py: This script contains the main analysis tasks:
